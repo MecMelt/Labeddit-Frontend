@@ -12,7 +12,9 @@
 
 ## Banco de dados e API
 
-https://github.com/MecMelt/Labeddit-Frontend
+https://github.com/MecMelt/LabedditBackend
+
+https://labedditbackelton.onrender.com
 
 
 ## Demonstração
