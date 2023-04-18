@@ -16,7 +16,7 @@ https://github.com/MecMelt/Labeddit-Frontend
 
 
 ## Demonstração
-[Link Demonstração](https://projeto-labeddit-frontend.vercel.app/)
+[Link Demonstração](https://labedditeltonlimeira.surge.sh/login/)
 
 ## Como rodar esse projeto
 
